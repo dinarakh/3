@@ -1,0 +1,454 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  font-family:"Roboto", Roboto;
+}
+      /*head*/
+.white-background{
+  background-color: white;
+}
+.cont{
+margin: 0 180px 0 180px;
+padding: 5px 0 5px 0;
+}
+.logo1{
+margin-right: 345px;
+display: inline-block;
+}
+.logo{
+  width: 80px;
+  height: 50px;
+}
+.ewq{
+  display: inline-block;
+}
+.top{
+  font-size: 16px;
+  vertical-align: middle;
+  color: #001244;
+  padding-right: 50px;
+}
+.arrow{
+  font-size: 16px;
+  width: 16px;
+  height: 10px;
+}
+.top1{
+  color: #0b93bd;
+  padding-right: 50px;
+}
+      /*body*/
+
+      /*1*/
+.background1{
+  background-image: url('https://sun9-7.userapi.com/impg/pOOKsaiwxOUNDGXndZboFmLGO6j3JdS9bPXw3w/n0X57JIqyCU.jpg?size=1280x526&quality=96&sign=56df3e97ee1daf07b3d4fcbd4821bbd5&type=album');
+  background-size: 1500px 700px;
+  background-repeat: no-repeat;
+  padding: 350px 350px 240px 350px;
+}
+.str{
+  color: #FFFFFF;
+  padding: 5px;
+  text-align: center;
+}
+.qwe{
+  text-align: center;
+  padding: 22px 0 0 0 ;
+}
+.Find-out-more{
+  font-size: 15px;
+  color: #FFFFFF;
+  padding: 12px;
+  border: solid #FFFFFF;
+  border-radius: 90px;
+  font-weight: bold;
+}
+
+      /*2*/
+.cont2{
+  padding: 0 150px ;
+}
+.flex{
+  display: flex;
+}
+.empty{
+  width: 380px;
+  height:50px;
+}
+.Need-help-finding-ridiculously-good-Cloud-talent{
+  width: 380px;
+  height:190px;
+}
+.str2{
+  font-size: 39px;
+  color: #011c2d;
+  line-height: 1cm;
+}
+.text{
+  list-style: disc;
+}
+.asd{
+  width: 820px;
+}
+.text1{
+  padding-top: 5px;
+  color: #7a7a7a;
+  font-size: 16px;
+  padding-bottom: 5px;
+}
+.text{
+  color: #7a7a7a;
+  padding-top: 5px;
+  font-size: 16px;
+  padding-bottom: 5px;
+}
+.gray-line{
+  display: block;
+  height: 13px;
+  width: 100%;
+  background:rgba(49,49,49,0.3);
+  }
+.str3{
+  font-size: 39px;
+  color: #011c2d;
+  line-height: 1cm;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.box{
+  border: solid orange;
+  width: 180px;
+  height: 206px;
+  border-radius: 30px; 
+  display: inline-table;
+  margin:0px 10px 30px;
+}
+
+.span_box{
+  font-size: 50px;
+  color: #011c2d;
+  margin-top: 45px;
+  margin-bottom: 15px;
+  text-align: center;
+  display: block;
+  font-weight: bold;
+}
+.p_box{
+  font-size: 16px;
+  color: #54595F;
+  line-height: 0.5cm;
+  text-align: center;
+  font-weight: bold;
+}
+      /*3*/
+.cont3{
+  padding:0px 150px 0px 150px;
+}
+.background2{
+  background-image: url('https://sun9-36.userapi.com/impg/nSEgxMhdojdS2yHDRBIxezVHDEj4HbxVT4EjZw/ufSn2xW_BxU.jpg?size=1280x446&quality=96&sign=f526e8337dd08b60382d0c7e0d8877a4&type=album');
+  background-size: 1500px 427px;
+  background-repeat: no-repeat;
+  margin-top: 350px;
+  overflow-x: hidden;
+}
+.grid{
+  /*display: grid;*/
+}
+.empty1{
+  padding:20px 750px ;
+}
+.Our_speciallties{
+  color: #FFFFFF;
+  font-size: 57px;
+  text-align: center;
+}
+.Services{
+  font-size: 60px;
+  color: #FDA007;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.Services_Text{
+  font-size: 22px;
+  color: #FFFFFF;
+  text-align: center;
+  padding-bottom: 5px;
+}
+.arrow_left{
+padding-right: 350px;
+}
+.arrow_right{
+padding-left: 350px;
+}
+.Find_more2{
+
+  color: #FFFFFF;
+  font-size: 15px;
+  border: solid #FFFFFF;
+  border-radius: 90px;
+  padding: 12px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  
+}
+.Find_more2_1{
+  padding-top: 30px;
+  text-align: center;
+
+}
+        /*4*/
+.cont4{
+padding: 30px 150px 0 150px ; 
+}
+
+.gray_background2{
+  height: 2.5px;
+  width: 100%;
+  background:rgba(49,49,49,0.3);
+}
+.cont4_h2_text{
+  padding-top: 40px;
+  padding-bottom: 5px;
+  color: #011c2d;
+  font-size: 29px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.cont4_h3_text{
+  color: #4f4f4f;
+  font-size: 18px;
+  text-align: center;
+  padding-bottom: 80px;
+  padding-bottom: 5px;
+}
+.empty_box{
+  padding-top: 60px;
+}
+.box_photo{
+ height: 72px;
+ width: 72px; 
+ padding-bottom: 20px;
+}
+
+.box1{
+width: 380px;
+height: 595px;
+background-color: #355d77;
+border-radius: 90px;
+text-align: center;
+margin: 0 15px 0 15px;
+}
+.box1_text_middle{
+color: #f1f1f1;
+font-size: 19px;
+font-weight: bold;
+}
+.box1_li{
+color: #f1f1f1;
+font-size: 15px;
+font-weight: bold;
+}
+.box2{
+  width: 380px;
+  height: 595px;
+  background-color: #f5f5f5;
+  border-radius: 90px;
+  text-align: center;
+  margin: 0 15px 0 15px;
+}
+.box2_text_middle{
+  color: #011c2d;
+  font-size: 19px;
+  font-weight: bold;
+}
+.box2_li{
+  color: #4f4f4f;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.box3{
+  width: 380px;
+  height: 595px;
+  background-color: #355d77;
+  border-radius: 90px;
+  text-align: center;
+  margin: 0 15px 0 15px;
+}
+.box3_text_middle{
+  color: #f1f1f1;
+  font-size: 19px;
+  font-weight: bold;
+}
+.box3_li{
+  color: #f1f1f1;
+font-size: 15px;
+font-weight: bold;
+}
+        /*5*/
+.gray_background3{
+height: 10px;
+width: 100%;
+background:rgba(49,49,49,0.1);
+}
+
+.cont5{
+  padding-left: 150px;
+}
+.box1_cont5{
+  width: 40%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.box1_cont5_h2text{
+  font-size: 40px;
+  color: #000;
+}
+.box1_cont5_empty{
+  height: 50px;
+}
+
+.box1-1_cont5_photo{
+  height: 36px;
+  width: 36px;
+}
+.FIO{
+  padding-left: 5px;
+  font-size: 14px;
+  color: #1c2022;
+}
+.google{
+  height: 17px;
+  width: 17px;
+  margin-left: 2247%;
+}
+
+.star{
+  height: 14px;
+  width: 105px;
+  padding-left: 5px;
+}
+.box1-1_cont5_gray_background{
+  height: 1px;
+  width: 100%;
+  background:rgba(49,49,49,0.3);
+}
+.box1-1_cont5_text{
+  padding-top: 15px;
+  color: #4a4a4a;
+  font-size: 14px;
+}
+.box1_cont5-1_empty{
+  height: 15px;
+}
+.comment{
+  color: #4a4a4a;
+  font-size: 14px;
+  color: gray;
+}
+.woman{
+  width: 50%;
+  width: 100%;
+}
+        /*6*/
+.last_empty{
+  padding: 30px 0;
+}
+.backgrond_orange{
+  background: #feca74;
+}
+.Find_your_expert_now{
+  font-size: 43px;
+  color: #355d77;
+  font-weight: bold;
+  margin: 5px;
+  margin-left: 20%;
+}
+.Book_a_call{
+  color: #FFFFFF;
+  font-size: 20px;
+  border: solid #355d77;
+  background: #355d77;
+  border-radius: 80px;
+  padding: 5px 5px 5px 5px;
+  margin: 10px;
+  font-weight: bold;
+  margin-left: 15%;
+}
+        /*footer*/
+.backgroud_footer{
+  background-color: #011c2d;
+}
+.empty_footer{
+  padding-top: 60px;
+}
+.cont_footer{
+  padding: 0 150px 0 150px;
+}
+.second_cont_footer{
+  width: 265px;
+  padding: 10px;
+}
+.footer_photo1{
+  width: 138px;
+  height: 75px;
+  padding-bottom: 30px;
+}
+.footer_photo2{
+  height: 18px;
+  width: 18px;
+  padding-bottom: 10px;
+}
+.text_footer1{
+  font-size: 14px;
+  color: #FFFFFFCC;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+.main_text_footer{
+  color: #FFFFFF;
+  font-size: 14px;
+  padding-bottom: 30px;
+  
+}
+.text2_footer{
+  font-size: 12px;
+  color: #FFFFFFb3;
+  padding-bottom: 20px;
+}
+.photo_website{
+  height: 25px;
+  width: 25px;
+  padding-right: 25px;
+}
+.SBA_WOSB_PHOTO{
+  padding-top: 30px;
+  width: 265px;
+  height: 103px;
+}
+ /*test*/
+ .dinarka{
+  margin-left: 33.33333%;
+  width: 300px;
+  height: 300px
+ }
+.dinar{
+  overflow-x: ;
+  height: 1500px;
+  width: 100%;
+  background: url('https://sun9-80.userapi.com/impf/c852216/v852216317/c8071/afpP5qcnE2o.jpg?size=793x1080&quality=96&sign=30f963ee78c89c22ab7be370ff55ad65&type=album');
+  background-size:100% ;
+  background-repeat:no-repeat ;
+}
+h1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
+.asdfgh{
+  overflow: hidden;
+}
