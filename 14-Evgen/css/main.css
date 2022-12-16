@@ -1,0 +1,44 @@
+head,body,html{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+*{
+  font-family: proxima-nova,sans-serif;
+}
+.back{
+  background-color:rgb(0, 0, 0);
+   height: 75px;
+   width: 100%;
+   position: fixed;
+}
+.up-cont{
+  display: flex;
+}
+.up{
+  margin: 0 7.25%;
+}
+.text-up-cont{
+  text-align: center;
+  margin: 0;
+  font-size: 28px;
+  color:  rgb(255,255,1);
+  padding: 20px 5px 23px 5px;
+}
+.up-cont p:hover{
+  color: black;
+  transition: all 0.5s ease-out 0s;
+  background: rgb(255,255,1);
+}
+.photo1{
+  width: 100%;
+}
+h2{
+  color: black;
+  font-size: 30px;
+}
+.text{
+  font-size: 20px;
+}
