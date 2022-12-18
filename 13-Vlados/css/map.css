@@ -1,0 +1,67 @@
+html,head,body{
+  margin: 0;
+  padding: 0;
+}
+*{
+  font-family: "Olympic Sans", Arial, Helvetica, sans-serif;
+}
+a{
+  text-decoration: none;
+}
+.up-cont{
+  display: flex;
+  padding-top: 10px;
+}
+.up-cont p:hover{
+  color: rgb(0, 0, 0);
+  transition: all 0.2s ease-out 0s;
+  border-bottom: 3px solid blue;
+  padding-bottom: 15px;
+  
+}
+.back{
+  background-color:rgb(125, 170, 204);
+   height: 65px;
+   width: 100%;
+   position: fixed;
+   border: 1px solid rgb(0, 0, 0);
+}
+.up{
+  margin: 0 7.25%;
+}
+.text-up-cont{
+  text-align: center;
+  margin: 0;
+  font-size: 28px;
+  color: black;
+}
+
+.ddd{
+  font-size: 25px;
+  width: 140px;
+  border: 2px solid black;
+  text-align: center;
+  color: black;
+  margin-right: 10px;
+}
+.asd .ddd:hover{
+  background-color: blueviolet;
+  transition: all 0.5s ease-out 0s;
+}
+.qwe1{
+  margin: 0 48% 0 45%;
+}
+.ewq1{
+  margin: 48% 0px 0 49%;
+}
+/*двигай тут если что топ и лефт*/
+.ccc{
+  width: 300px;
+  position: absolute;
+  top: 150px;
+  left: 70px;
+}
+p{
+  margin: 0;
+  padding: 0;
+}

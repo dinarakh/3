@@ -1,0 +1,54 @@
+html,head,body{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(181, 208, 230);
+}
+*{
+  font-family: "Olympic Sans", Arial, Helvetica, sans-serif;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.up-cont{
+  display: flex;
+  padding-top: 10px;
+}
+.up-cont p:hover{
+  color: rgb(0, 0, 0);
+  transition: all 0.2s ease-out 0s;
+  border-bottom: 3px solid blue;
+  padding-bottom: 15px;
+  
+}
+.back{
+  background-color:rgb(125, 170, 204);
+   height: 65px;  
+   width: 100%;
+   position: fixed;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+.up{
+  margin: 0 7.25%;
+}
+.text-up-cont{
+  text-align: center;
+  margin: 0;
+  font-size: 28px;
+  color: black;
+}
+table{
+  width: 50%;
+}
+tr{
+  width: 50%;
+}
+.tet{
+  font-size: 25px;
+}
+.tet1{
+  font-size: 25px;
+  text-align: center;
+}

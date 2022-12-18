@@ -1,0 +1,75 @@
+html,head,body{
+  margin: 0;
+  padding: 0;
+}
+*{
+  font-family: "Olympic Sans", Arial, Helvetica, sans-serif;
+}
+a{
+  text-decoration: none;
+}
+.up-cont{
+  display: flex;
+  padding-top: 10px;
+}
+.up-cont p:hover{
+  color: rgb(0, 0, 0);
+  transition: all 0.2s ease-out 0s;
+  border-bottom: 3px solid blue;
+  padding-bottom: 15px;
+  
+}
+.back{
+  background-color:rgb(125, 170, 204);
+   height: 65px;
+   width: 100%;
+   position: fixed;
+   border-bottom: 1px solid rgb(0, 0, 0);
+}
+.up{
+  margin: 0 7.25%;
+}
+.text-up-cont{
+  text-align: center;
+  margin: 0;
+  font-size: 28px;
+  color: black;
+}
+
+h1{
+  font-size:50px;
+  text-align: center;
+  margin: 5px 0 10px 0;
+}
+
+.photo{
+  width:50%;
+  margin-right: 15px;
+}
+.photo1{
+  width: 40%;
+  padding-bottom: 6%;
+}
+
+.photo2{
+  width: 30%;
+}.photo3{
+  width: 30%;
+}.photo4{
+  width: 30%;
+}
+h2{
+  font-size: 38px;
+  text-align: center; 
+  margin: 0;
+  width: 20%;
+}
+h3{
+  font-size: 26px;
+  color: black;
+}
+.con-text{
+  font-size: 20px;
+  color: #2d2d2d;
+  width: 67%;
+}
